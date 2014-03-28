@@ -249,6 +249,7 @@ A good comment includes information such as:
 +  [cssswizardry css guidelines](https://github.com/csswizardry/CSS-Guidelines)  
 +  [http://nicolasgallagher.com](http://nicolasgallagher.com)  
 +  [http://mdo.github.io/code-guide/](http://mdo.github.io/code-guide/)  
++  [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)
 
 ##Thanks
 +  [Harry Roberts](http://csswizardry.com/)  

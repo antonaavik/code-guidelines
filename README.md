@@ -234,11 +234,15 @@ Delete chunks of markup and CSS until your problem goes away, then you can deter
 It can be tempting to put an `overflow:hidden;` on something to hide the effects of a layout quirk, but overflow was probably never the problem; fix the problem, not its symptoms.
 
 ##Javascript
+
 ###Comments
 A good comment includes information such as:
 +  A description of what the code is doing  
 +  Why the code is doing it in this way (as opposed to an alternative)  
 +  A reference to any related bug or issue in an issue tracker.  
+
+###jQuery  
+[http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)  
 
 ##References
 ###Books

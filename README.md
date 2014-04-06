@@ -123,7 +123,7 @@ The above markup holds two classes; one to which you can attach some styling for
 
 ##CSS
 ###Consistency
-Keep margins and paddings consistent! For example html elements should only have spacing on top (or on bottom) of the element (margin: 20px 0 0 0) and padding of wrapper element on opposite side (margin: 20px 0 0 0; padding: 1px 20px 20px 20px; background:blue). If we don't include spacing in a consistent and correct way to the elements, than we end up with spacing nightmare and unmaintainable css.
+Keep margins and paddings consistent! If we don't include spacing in a consistent and correct way to the elements, than we end up with spacing nightmare and unmaintainable css. For example html elements should only have spacing on top/bottom of the element (margin: 20px 0 0 0) and padding of wrapper element on opposite side (margin: 20px 0 0 0; padding: 1px 20px 20px 20px; background:blue).
 
 ###Source order
 Try and write stylesheets in specificity order. This ensures that you take full advantage of inheritance and CSS’ first C; the cascade.  

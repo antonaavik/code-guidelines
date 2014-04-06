@@ -126,9 +126,10 @@ Try and write stylesheets in specificity order. This ensures that you take full 
 A well ordered stylesheet will be ordered something like this:  
 1.  **Elements** unclassed h1, unclassed ul etc. -> Use [Normalize.css](http://necolas.github.io/normalize.css/) as starting point.   
 2.  **Grid system**   
-3.  **Objects and abstractions** — generic, underlying design patterns like .btn, .data, .tooltip etc.  
-4.  **Components**: navigational elements, image galleries, sliders  
-5.  **Style trumps**: things like error states, seasonal themes, etc.  
+3.  **Objects and abstractions** — generic, underlying design patterns like .btn, .data, .tooltip, .slider, .tabs etc.  
+4.  **Theme**: Site wrapper, header and footer  
+5.  **Components**: .registration, .banner, .contact  
+6.  **Style trumps**: Color schemas  
 
 This means that—as you go down the document—each section builds upon and inherits sensibly from the previous one(s). There should be less undoing of styles, less specificity problems and all-round better architected stylesheets.  
 

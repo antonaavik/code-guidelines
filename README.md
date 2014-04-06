@@ -243,7 +243,6 @@ It can be tempting to put an `overflow:hidden;` on something to hide the effects
 +  [box-sizing: border-box;](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 +  [smoothing: antialiased](http://maxvoltar.com/archive/-webkit-font-smoothing)
 +  [text-rendering: optimizeLegibility](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering)
-
 +  [Normalize.css](https://github.com/necolas/normalize.css)
 
 ##Javascript

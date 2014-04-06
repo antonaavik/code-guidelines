@@ -17,6 +17,7 @@ By writing markup first you can focus on data, content and semantics and then ap
     +  [BEM (OOCSS)](#bem-oocss)
     +  [JS Hooks](#js-hooks)
 +  [CSS](#css)
+  +  [consistency](#consistency)
   +  [Source order](#source-order)
   +  [Anatomy of rulesets](#anatomy-of-rulesets)
   +  [Layout](#layout)
@@ -120,6 +121,9 @@ If you need to bind to some markup use a JS specific CSS class. This is simply a
 The above markup holds two classes; one to which you can attach some styling for slider and another which allows you to add the functionality. In this case we can remove js-slider class when slider functionality is not required (like if there is only one slide to display).
 
 ##CSS
+###Consistency
+Keep margins and paddings consistent! For example html elements should only have spacing on top (or on bottom) of the element (margin: 20px 0 0 0) and padding of wrapper element on opposite side (margin: 20px 0 0 0; padding: 1px 20px 20px 20px; background:blue). If we don't include spacing in a correct way to the elements, than we end up endless spacing issues later on.
+
 ###Source order
 Try and write stylesheets in specificity order. This ensures that you take full advantage of inheritance and CSS’ first C; the cascade.  
 

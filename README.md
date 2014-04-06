@@ -17,7 +17,7 @@ By writing markup first you can focus on data, content and semantics and then ap
     +  [BEM (OOCSS)](#bem-oocss)
     +  [JS Hooks](#js-hooks)
 +  [CSS](#css)
-  +  [consistency](#consistency)
+  +  [Consistency](#consistency)
   +  [Source order](#source-order)
   +  [Anatomy of rulesets](#anatomy-of-rulesets)
   +  [Layout](#layout)
@@ -237,6 +237,13 @@ If you run into a CSS problem **take code away before you start adding more** in
 Delete chunks of markup and CSS until your problem goes away, then you can determine which part of the code the problem lies in.
 
 It can be tempting to put an `overflow:hidden;` on something to hide the effects of a layout quirk, but overflow was probably never the problem; fix the problem, not its symptoms.
+
+###Good to know
++  [box-sizing: border-box;](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
++  [smoothing: antialiased](http://maxvoltar.com/archive/-webkit-font-smoothing)
++  [text-rendering: optimizeLegibility](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering)  
+
++  [Normalize.css](https://github.com/necolas/normalize.css)
 
 ##Javascript
 

@@ -27,6 +27,7 @@ By writing markup first you can focus on data, content and semantics and then ap
   +  [CSS selector intent](#css-selector-intent)
   +  [Magic numbers and absolutes](#magic-numbers-and-absolutes)
   +  [Debugging](#debugging)
+  +  [Good to know](#good-to-know)
 + [Javascript](#javascript)
 
 ##HTML
@@ -241,7 +242,7 @@ It can be tempting to put an `overflow:hidden;` on something to hide the effects
 ###Good to know
 +  [box-sizing: border-box;](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 +  [smoothing: antialiased](http://maxvoltar.com/archive/-webkit-font-smoothing)
-+  [text-rendering: optimizeLegibility](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering)  
++  [text-rendering: optimizeLegibility](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering)
 
 +  [Normalize.css](https://github.com/necolas/normalize.css)
 

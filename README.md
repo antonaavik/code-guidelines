@@ -239,6 +239,12 @@ Delete chunks of markup and CSS until your problem goes away, then you can deter
 
 It can be tempting to put an `overflow:hidden;` on something to hide the effects of a layout quirk, but overflow was probably never the problem; fix the problem, not its symptoms.
 
+###Browser specific rules
+Include browser specific rule right after the original rule. This way we can instantly see the exception while modifying the original rule. Don't pile browser specific rules to the bottom of stylesheet or into a separate file.
+```
+.rule {}  
+.ie9 rule {}
+```
 ###Good to know
 +  [box-sizing: border-box;](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 +  [smoothing: antialiased](http://maxvoltar.com/archive/-webkit-font-smoothing)

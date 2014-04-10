@@ -245,6 +245,8 @@ Include browser specific rule right after the original rule. This way we can ins
 .rule {}  
 .ie9 rule {}
 ```
+Note: Device specific rules (@media queries) should be all in one file/bottom of the file.  
+
 ###Good to know
 +  [box-sizing: border-box;](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 +  [smoothing: antialiased](http://maxvoltar.com/archive/-webkit-font-smoothing)

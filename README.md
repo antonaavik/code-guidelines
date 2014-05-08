@@ -269,6 +269,7 @@ A good comment includes information such as:
 ##Tools
 [http://developers.google.com/speed/pagespeed/insights/](http://developers.google.com/speed/pagespeed/insights/)  
 [http://www.stylestats.org/](http://www.stylestats.org/)  
+[http://jsperf.com/](http://jsperf.com/)  
 
 ##References
 ###Books

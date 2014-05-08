@@ -261,6 +261,8 @@ A good comment includes information such as:
 +  Why the code is doing it in this way (as opposed to an alternative)  
 +  A reference to any related bug or issue in an issue tracker.  
 
+[Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
+
 ###jQuery  
 [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)  
 
@@ -278,6 +280,7 @@ A good comment includes information such as:
 +  [http://nicolasgallagher.com](http://nicolasgallagher.com)  
 +  [http://mdo.github.io/code-guide/](http://mdo.github.io/code-guide/)  
 +  [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)
++  [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
 
 ##Thanks
 +  [Harry Roberts](http://csswizardry.com/)  

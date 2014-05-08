@@ -264,6 +264,10 @@ A good comment includes information such as:
 ###jQuery  
 [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)  
 
+##Tools
+[http://developers.google.com/speed/pagespeed/insights/](http://developers.google.com/speed/pagespeed/insights/)  
+[http://www.stylestats.org/](http://www.stylestats.org/)  
+
 ##References
 ###Books
 +  The Smashing Book #4 - New perspectives on web design  

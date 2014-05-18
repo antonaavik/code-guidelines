@@ -255,6 +255,7 @@ Note: Device specific rules (@media queries) should be all in one file/bottom of
 
 ##Javascript
 
+
 ###Comments
 A good comment includes information such as:
 +  A description of what the code is doing  
@@ -267,6 +268,7 @@ A good comment includes information such as:
 [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)  
 
 ##Tools
+[http://www.jslint.com/](http://www.jslint.com/)  
 [http://developers.google.com/speed/pagespeed/insights/](http://developers.google.com/speed/pagespeed/insights/)  
 [http://www.stylestats.org/](http://www.stylestats.org/)  
 [http://jsperf.com/](http://jsperf.com/)  

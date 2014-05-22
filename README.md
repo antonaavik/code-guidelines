@@ -255,6 +255,7 @@ Note: Device specific rules (@media queries) should be all in one file/bottom of
 
 ##Javascript
 
+Passes [http://www.jslint.com/](http://www.jslint.com/)  
 
 ###Comments
 A good comment includes information such as:

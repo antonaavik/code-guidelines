@@ -255,6 +255,7 @@ Note: Device specific rules (@media queries) should be all in one file/bottom of
 
 ##Javascript
 
+Guide [http://javascript.crockford.com/code.html](http://javascript.crockford.com/code.html)  
 Passes [http://www.jslint.com/](http://www.jslint.com/)  
 
 ###Comments

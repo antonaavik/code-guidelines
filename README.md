@@ -269,6 +269,25 @@ A good comment includes information such as:
 ###jQuery  
 [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)  
 
+##Animation
+
+More Information: [Parallax Done Right](https://medium.com/@dhg/82ced812e61c)  
+
+###Do's
+
++  Only use properties that are cheap for browsers to animate (translate3d, scale, rotation and opacity).  
++  Use window.requestAnimationFrame.  
++  Round values appropriately.  
++  Only animate elements in viewport.  
++  Animate only absolutely and fixed position elements.  
++  Use natural <body> scroll.  
+
+##Don'ts
++  Avoid background-size:cover.  
++  Don’t bind directly to scroll event.  
++  Don’t animate massive images or dramatically resize them.  
++  Avoid animating 100 things at once.  
+
 ##Tools
 [http://www.jslint.com/](http://www.jslint.com/)  
 [http://developers.google.com/speed/pagespeed/insights/](http://developers.google.com/speed/pagespeed/insights/)  

@@ -29,6 +29,13 @@ By writing markup first you can focus on data, content and semantics and then ap
   +  [Debugging](#debugging)
   +  [Good to know](#good-to-know)
 + [Javascript](#javascript)
+  + [Comments](#comments)  
+  + [jQuery](#jquery)
++ [Animation](#animation)
+  +  [Do's](#dos)
+  +  [Don'ts](#don'ts)
++ [Tools](#tools)
++ [References](#references)
 
 ##HTML
 HTML should not contain any styling or even implies what the styling might be. Everything on the page is either a required site resource, content, or describing content.
@@ -282,7 +289,7 @@ More Information: [Parallax Done Right](https://medium.com/@dhg/82ced812e61c)
 +  Animate only absolutely and fixed position elements.  
 +  Use natural <body> scroll.  
 
-##Don'ts
+###Don'ts
 +  Avoid background-size:cover.  
 +  Don’t bind directly to scroll event.  
 +  Don’t animate massive images or dramatically resize them.  

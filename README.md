@@ -286,6 +286,7 @@ A good comment includes information such as:
 +  [http://mdo.github.io/code-guide/](http://mdo.github.io/code-guide/)  
 +  [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)
 +  [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
++  [Parallax Done Right](https://medium.com/@dhg/82ced812e61c)  
 
 ##Thanks
 +  [Harry Roberts](http://csswizardry.com/)  

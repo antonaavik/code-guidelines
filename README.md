@@ -273,6 +273,7 @@ A good comment includes information such as:
 
 [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
 [Programming Javascript Applications](http://chimera.labs.oreilly.com/books/1234000000262)
+[Developing Backbone.js Applications](https://github.com/addyosmani/backbone-fundamentals/)
 
 ###jQuery  
 [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)  

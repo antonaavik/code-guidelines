@@ -34,6 +34,7 @@ By writing markup first you can focus on data, content and semantics and then ap
 + [Animation](#animation)
   +  [Do's](#dos)
   +  [Don'ts](#don'ts)
++ [Mobile](#mobile)
 + [Tools](#tools)
 + [References](#references)
 

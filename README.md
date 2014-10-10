@@ -298,6 +298,9 @@ More Information: [Parallax Done Right](https://medium.com/@dhg/82ced812e61c)
 +  Don’t animate massive images or dramatically resize them.  
 +  Avoid animating 100 things at once.  
 
+##Mobile
+[Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)  
+
 ##Tools
 [http://www.jslint.com/](http://www.jslint.com/)  
 [http://developers.google.com/speed/pagespeed/insights/](http://developers.google.com/speed/pagespeed/insights/)  

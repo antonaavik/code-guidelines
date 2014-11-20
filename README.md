@@ -35,7 +35,7 @@ By writing markup first you can focus on data, content and semantics and then ap
   +  [Do's](#dos)
   +  [Don'ts](#don'ts)
 + [Mobile](#mobile)
-+ [Bootstraps](#bootstraps)
++ [Bootstraps and FE Guidelines](#bootstraps-and-fe-guidelines)
 + [Tools](#tools)
 + [References](#references)
 

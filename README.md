@@ -303,9 +303,10 @@ More Information: [Parallax Done Right](https://medium.com/@dhg/82ced812e61c)
 ##Mobile
 [Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)  
 
-##Bootstraps
+##Bootstraps and FE guidelines
 +  [Material Design](https://fezvrasta.github.io/bootstrap-material-design/)  
 +  [Twitter bootstrap](http://getbootstrap.com/)
++  [Material design](http://www.google.com/design/spec/material-design/introduction.html)
 
 ##Tools
 [http://www.jslint.com/](http://www.jslint.com/)  

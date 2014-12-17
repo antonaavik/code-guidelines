@@ -1,10 +1,5 @@
 #FE Code Guidelines
 
-Write markup before CSS. This means you can visually see which CSS properties are naturally inherited and thus avoid reapplying redundant styles.
-
-By writing markup first you can focus on data, content and semantics and then apply only the relevant classes and CSS afterwards.
-
-##Contents
 +  [HTML](#html)
   +  [General](#general)
   +  [Semantics](#semantics)

@@ -328,3 +328,6 @@ More Information: [Parallax Done Right](https://medium.com/@dhg/82ced812e61c)
 +  [Nicolas Gallagher](http://nicolasgallagher.com)  
 +  [Nicole Sullivan](http://www.stubbornella.org/)  
 +  [Nicholas C. Zakas](http://www.nczonline.net/)  
+
+##Helpful plugins  
++  [https://autocompeter.com](https://autocompeter.com)  

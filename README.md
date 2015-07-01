@@ -272,6 +272,7 @@ A good comment includes information such as:
 [Programming Javascript Applications](http://chimera.labs.oreilly.com/books/1234000000262)  
 [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)  
 [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)  
+[math-as-code](https://github.com/Jam3/math-as-code)  
 
 ###jQuery  
 [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)  

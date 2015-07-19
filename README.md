@@ -275,6 +275,7 @@ A good comment includes information such as:
 [math-as-code](https://github.com/Jam3/math-as-code)  
 [AngularJS styleguide](https://github.com/toddmotto/angularjs-styleguide)  
 [AngularJS CRUD application demo](https://github.com/angular-app/angular-app)
+[Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
 
 ###jQuery  
 [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)  

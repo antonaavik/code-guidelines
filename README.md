@@ -327,6 +327,7 @@ More Information: [Parallax Done Right](https://medium.com/@dhg/82ced812e61c)
 +  [http://lab.abhinayrathore.com/jquery-standards/](http://lab.abhinayrathore.com/jquery-standards/)
 +  [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
 +  [Parallax Done Right](https://medium.com/@dhg/82ced812e61c)  
++  [Javascript Design Patterns](https://carldanley.com/javascript-design-patterns/)
 
 ##Thanks
 +  [Harry Roberts](http://csswizardry.com/)  

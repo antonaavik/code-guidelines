@@ -319,6 +319,7 @@ More Information: [Parallax Done Right](https://medium.com/@dhg/82ced812e61c)
 +  SMACSS book  
 
 ###Other
++  [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  
 +  [Jank Free: Let's Make the Web Silky Smooth!](http://jankfree.org/)  
 +  [cssswizardry css guidelines](https://github.com/csswizardry/CSS-Guidelines)  
 +  [http://nicolasgallagher.com](http://nicolasgallagher.com)  
